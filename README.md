@@ -1,4 +1,7 @@
-# Recipe Website
+# Recipe website
+To run this projetct please install:
+npm i
+npm i react-router-dom
 
 This project is a dynamic recipe website that utilizes the Spoonacular API to provide users with a wide variety of recipes, and cooking instructions.
 
