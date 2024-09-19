@@ -1,5 +1,5 @@
 # Recipe website
-To run this projetct please intall the packages:
+To run this projetct please install:
 npm i
 npm i react-router-dom
 
